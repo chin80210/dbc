@@ -17,3 +17,4 @@ Notes and usage details for dbc.
 - fix a small wording issue
 - fix a small wording issue
 - add a note about the defaults
+- add a note about the defaults
